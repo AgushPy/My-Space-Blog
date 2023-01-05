@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+body{
+  font-size: 0.2rem;
+  background-image: url('https://www.icegif.com/wp-content/uploads/mario-icegif-16.gif');
+  background-size: cover;
+}

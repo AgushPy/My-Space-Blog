@@ -1,0 +1,12 @@
+.navbar{
+    display:flex;
+    top : 0;
+    right: 0;
+    left: 0;
+    position: relative;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+    flex-wrap: wrap;
+    height: fit-content;
+    margin-bottom: 50px;
+}
